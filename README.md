@@ -1,3 +1,3 @@
 # rabbitMQ
 
-    RabbitMQ的基础概念和简单使用
+    对RabbitMQ的基础概念和使用的简单总结
